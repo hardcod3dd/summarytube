@@ -9,7 +9,9 @@ else
 
     # Check if the cloning was successful
     if [ $? -eq 0 ]; then
-        cd "whisper.cpp" || make
+        cd "whisper.cpp"
+        make
+        cd ..
         clear
         echo "Installed successfully.Now downloading the models."
         bash ./whisper.cpp/models/download-ggml-model.sh large-v3
