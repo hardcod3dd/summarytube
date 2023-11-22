@@ -17,7 +17,7 @@ SummaryTube leverages the OpenAI API for its multilingual capabilities, a featur
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/summarytube.git
+   git clone https://github.com/hardcod3dd/summarytube.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -37,7 +37,7 @@ SummaryTube leverages the OpenAI API for its multilingual capabilities, a featur
    ```bash
    bash start.sh
    ```
-   Replace `summarytube.py` with the main script of your application.
+
 
 ## Future Updates
 
