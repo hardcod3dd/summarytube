@@ -1,5 +1,3 @@
-Certainly! You can copy the provided text and save it as a `.txt` file using a text editor or you can use the following content and save it to a file named `README.txt`:
-
 
 # SummaryTube
 
@@ -45,13 +43,3 @@ SummaryTube leverages the OpenAI API for its multilingual capabilities, a featur
 
 Future updates to this project will focus on improving the codebase, optimizing the extraction and summarization process using local models, and expanding compatibility.
 
-## Contribution
-
-Feel free to contribute to this project by submitting issues or pull requests. Your feedback and contributions are highly appreciated.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-```
-
-Save the file with the name `README.txt`.
